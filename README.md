@@ -23,4 +23,3 @@ Lisää linkki GitHub Pagesiin jos julkaiset sivun.
 ## 👤 Tekijä
 Ali Akbar Saberi  
 GitHub: [@aliaksaberi](https://github.com/aliaksaberi)
-# todo-app
